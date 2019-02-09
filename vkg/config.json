@@ -1,0 +1,22 @@
+{
+	"settings": {
+		"sleep": "10",
+		"count": "10"
+	},
+    "database": {
+        "mysql": {
+            "server": "localhost",
+            "user": "vkg",
+            "password": "vkg",
+            "database": "vkg"
+        }
+    },
+    "groups": {
+		"profile2": {
+            "email": "localhost@localhost.ru",
+            "links": [
+				"https://vk.com/1tv"
+            ]
+        }
+    }
+}

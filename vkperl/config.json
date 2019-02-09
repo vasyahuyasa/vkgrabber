@@ -1,0 +1,14 @@
+{
+	"settings": {
+		"sleep": "5",
+		"count": "10"
+	},
+    "database": {
+        "mysql": {
+            "server": "localhost",
+            "user": "vkperl",
+            "password": "vkperl",
+            "database": "vkperl"
+        }
+    }
+}

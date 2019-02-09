@@ -1,0 +1,5 @@
+to: localhost@localhost.ru
+subject: Найдена заявка!
+Content-Type: text/html; charset="utf-8"
+
+Сообщениеовое сообщение
